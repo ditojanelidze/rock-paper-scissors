@@ -20,7 +20,3 @@ group :development, :test do
   gem 'dotenv-rails'
   gem 'rubocop-rails'
 end
-
-group :test do
-  gem 'rspec-rails'
-end
